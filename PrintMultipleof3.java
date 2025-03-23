@@ -18,6 +18,7 @@ for(int i=1;i<=100;i++) {
     }
     else {
         System.out.println(i +"not divisible by either  3 ,5 or both");
+        //System.out.println("done");
 
     }
 }

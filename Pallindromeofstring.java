@@ -23,6 +23,7 @@ public class Pallindromeofstring {
         }
         if(flag==0)
         System.out.println("Pallindrome");
+        //System.out.println("done");
 
 
 
