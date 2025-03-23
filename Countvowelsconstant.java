@@ -26,6 +26,7 @@ public class Countvowelsconstant {
         }
         System.out.println(vowel);
         System.out.println(constant);
+        //System.out.println("done");
         }
 
     }
